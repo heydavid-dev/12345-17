@@ -13,11 +13,11 @@ enable-smart-app-banner: true
 footer-description: Made by John Doe in New York
 contact-list:
 - url: mailto:john.doe@gmail.com
-  icon: envelope
+  icon: download
 - url: https://twitter.com/john.doe
-  icon: twitter
+  icon: cog
 - url: https://github.com/john.doe
-  icon: github
+  icon: play-circle
 features-list:
 - title: GitHub Pages Jekyll Theme
   description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video.
@@ -38,7 +38,7 @@ features-list:
 - title: Easy to Tweak
   description: Tweak accent color, images, icons and transparency via the _config.yml
     file. No HTML/CSS needed.
-  fontawesome-icon-name: user
+  fontawesome-icon-name: zoom-in
 - title: Feature List
   description: Add features (like this one) to your site via the _config.yml file.
     No HTML/CSS needed.
